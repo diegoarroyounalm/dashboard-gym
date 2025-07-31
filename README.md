@@ -1,6 +1,6 @@
 # 📊 Dashboard Interactivo de Gimnasio
 
-Este proyecto muestra un **dashboard interactivo** desarrollado en **Power BI** para analizar los datos de un gimnasio en Estados Unidos.
+Este proyecto muestra un **dashboard interactivo** desarrollado en **Power BI** para analizar los datos de una franquicia de gimnasios en Estados Unidos.
 
 ## 🏋️‍♂️ Descripción
 
@@ -26,7 +26,7 @@ El dashboard permite visualizar:
 ## ⚙️ Tecnologías utilizadas
 
 - **Power BI** para visualización de datos , lenguaje DAX.
-- Dataset simulado de clientes y suscripciones.
+- Dataset  de clientes y suscripciones.
 
 ## ✅ Conclusiones
 
