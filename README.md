@@ -43,7 +43,9 @@ El dashboard permite visualizar:
 ## ✏️ Autor
 
 **Diego Arroyo**
-📧 diegojulioarroyo@gmail.com  
+
+📧 diegojulioarroyo@gmail.com 
+ 
 🔗 [Mi LinkedIn](https://www.linkedin.com/in/diego-arroyo-b2153b229/) 
 
 
