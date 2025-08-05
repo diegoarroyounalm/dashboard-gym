@@ -33,6 +33,7 @@ El dashboard permite visualizar:
 - Instagram, Facebook y radio destacan como los medios más efectivos para captar nuevos clientes.
 - El plan **ProTrainer** genera el mayor ingreso, seguido de **FitStart** y **NutriFit**.
 - Existe una mayor concentración de clientes en los planes más populares, pero también grupos de clientes con ingresos más bajos y menos frecuencia de suscripción.
+- Se uso validacion cruzada para confirmar los resultados
 
 ## 💡 Recomendaciones
 
